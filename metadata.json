@@ -1,0 +1,5 @@
+{
+  "name": "Criador de Personagens com IA",
+  "description": "Carregue uma imagem de um personagem e use IA para gerar novas imagens dele em diferentes cenários e ações.",
+  "requestFramePermissions": []
+}
